@@ -1,0 +1,10 @@
+# ▶️ Use
+
+claude ask "Explain DNA replication"
+
+---
+
+# 📊 Flowchart
+
+User → Claude CLI → Claude API → Response → Output
+
